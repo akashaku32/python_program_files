@@ -1,0 +1,10 @@
+l=[10,10,20]
+y=l.count(10)
+l.insert(2,30)
+l.pop()
+j=l.copy()
+l.extend(j)
+print(l)
+l.sort(reverse=True)
+print(l)
+dir(tuple)

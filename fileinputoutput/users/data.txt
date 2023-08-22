@@ -1,0 +1,9 @@
+{'name': 'hari', 'followers': 500, 'following': 780}
+{'name': 'vijay', 'followers': 200, 'following': 780}
+{'name': 'vinu', 'followers': 70, 'following': 780}
+{'name': 'tinu', 'followers': 670, 'following': 800}
+{'name': 'ram', 'followers': 560, 'following': 670}
+{'name': 'jhon', 'followers': 10, 'following': 100}
+{'name': 'sachin', 'followers': 3200, 'following': 670}
+{'name': 'rohit', 'followers': 4500, 'following': 490}
+{'name': 'kohli', 'followers': 6600, 'following': 600}
